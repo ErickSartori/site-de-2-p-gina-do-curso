@@ -1,0 +1,21 @@
+body{
+    background-color: wheat;
+    background-size: cover;
+    background-image: url(legiao_C_Y4GnfVmj1p.jpg.webp);
+    font-size: xx-large;
+    text-align: center;
+    color: black;
+}
+header{
+    text-align: center;
+    background-size: cover;
+    
+    
+}
+img{
+    height: 250px;
+}
+.Página2{
+    text-align: center;
+    font-size: medium;
+}
